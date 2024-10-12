@@ -1,0 +1,50 @@
+#header {
+  height: 90px;
+  background: #10284e;
+  color: #fff;
+}
+
+#branding {
+  height: 80px;
+  display: flex;
+  align-items: center;
+}
+
+#head {
+  height: 60px;
+  color: #fff;
+  padding-top: 10px;
+}
+
+.brand_img {
+  height: 100%;
+}
+
+a:link,
+a:visited {
+  color: #10284e;
+}
+
+div.breadcrumbs {
+  background: #30caa0;
+  color: #10284e;
+}
+
+div.breadcrumbs a {
+  color: #333;
+}
+
+.module h2,
+.module caption,
+.inline-group h2 {
+  background: #30caa0;
+}
+
+.button,
+input[type="submit"],
+.submit-row,
+input,
+a.button {
+  background: #10284e;
+  color: #fff;
+}
